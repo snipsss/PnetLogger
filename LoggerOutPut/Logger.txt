@@ -1,0 +1,11 @@
+| INFO > Constructor class LogCreator created.  Address #[this=00000027EB79F320] Line #80
+| INFO > File Path #C:\Users\acer\source\repos\LoggerForPnet\LoggerOutPut\Logger.txt File Name #"Logger.txt" Line # 91
+| INFO> Session Number #0 Message:  Compilation Done!  Time: 2023-09-28T18:16:33Z Line # 92
+| INFO > Allow address and port: [fe80::37d2:5c2f:a8a1:4058%8]:0 Line# 106
+| INFO > Allow address and port: [fe80::ac9e:2707:2d81:e24e%19]:0 Line# 106
+| INFO > Allow address and port: [fe80::ff37:fc4f:99ae:ab1%9]:0 Line# 106
+| INFO > Allow address and port: 26.58.252.37:0 Line# 106
+| INFO > Allow address and port: 192.168.56.1:0 Line# 106
+| INFO > Allow address and port: 10.15.2.164:0 Line# 106
+| INFO > Allow address and port: [fdfd::1a3a:fc25]:0 Line# 106
+| INFO > Deleting object  #[00000027EB79F320] Line#109
